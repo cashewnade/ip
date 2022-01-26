@@ -1,4 +1,1 @@
-T / 1 / one
-T / 0 / two
-D / 1 / tmr / tmr
-E / 0 / hello / next day
+E / 0 / tmr / Feb 20 2020
